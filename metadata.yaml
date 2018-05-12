@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31095'
     url: http://www.gutenberg.org/2009/agents/31095
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25139#De-Vegetarische-Keuken--13-Kookboek-van-den-Nederlandschen-Vegetari-rsbond
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2008-04-22'
 gutenberg_type: Text
